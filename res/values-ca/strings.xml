@@ -175,7 +175,7 @@
     <string name="title_edit_group" msgid="4246193439931854759">"Suprimeix els contactes"</string>
     <string name="local_profile_title" msgid="1613784248702623410">"El meu perfil local"</string>
     <string name="external_profile_title" msgid="2706282819025406927">"El meu perfil de <xliff:g id="EXTERNAL_SOURCE">%1$s</xliff:g>"</string>
-    <string name="contact_editor_prompt_zero_accounts" msgid="4468363031413457746">"Dedica un minut a afegir un compte per crear una còpia de seguretat dels contactes a Google."</string>
+    <string name="contact_editor_prompt_zero_accounts" msgid="4468363031413457746">"Dedica un minut a afegir un compte per crear una còpia de seguretat dels contactes."</string>
     <string name="contact_editor_prompt_one_account" msgid="765343809177951169">"Els contactes nous es desaran a <xliff:g id="ACCOUNT_NAME">%1$s</xliff:g>."</string>
     <string name="contact_editor_prompt_multiple_accounts" msgid="1543322760761168351">"Tria un compte predeterminat per als contactes nous:"</string>
     <string name="contact_editor_title_new_contact" msgid="7534775011591770343">"Crea un contacte"</string>
