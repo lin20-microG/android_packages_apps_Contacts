@@ -175,7 +175,7 @@
     <string name="title_edit_group" msgid="4246193439931854759">"Удалить контакты"</string>
     <string name="local_profile_title" msgid="1613784248702623410">"Мой профиль"</string>
     <string name="external_profile_title" msgid="2706282819025406927">"Мой профиль <xliff:g id="EXTERNAL_SOURCE">%1$s</xliff:g>"</string>
-    <string name="contact_editor_prompt_zero_accounts" msgid="4468363031413457746">"Добавьте аккаунт, чтобы сохранить свои контакты в Google."</string>
+    <string name="contact_editor_prompt_zero_accounts" msgid="4468363031413457746">"Добавьте аккаунт, чтобы сохранить свои контакты."</string>
     <string name="contact_editor_prompt_one_account" msgid="765343809177951169">"Новые контакты будут сохранены в аккаунте <xliff:g id="ACCOUNT_NAME">%1$s</xliff:g>."</string>
     <string name="contact_editor_prompt_multiple_accounts" msgid="1543322760761168351">"Выберите аккаунт по умолчанию для новых контактов:"</string>
     <string name="contact_editor_title_new_contact" msgid="7534775011591770343">"Создать контакт"</string>

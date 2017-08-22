@@ -175,7 +175,7 @@
     <string name="title_edit_group" msgid="4246193439931854759">"Verwyder kontakte"</string>
     <string name="local_profile_title" msgid="1613784248702623410">"My plaaslike profiel"</string>
     <string name="external_profile_title" msgid="2706282819025406927">"My <xliff:g id="EXTERNAL_SOURCE">%1$s</xliff:g>profiel"</string>
-    <string name="contact_editor_prompt_zero_accounts" msgid="4468363031413457746">"Neem \'n oomblik om \'n rekening by te voeg wat jou kontakte na Google sal rugsteun."</string>
+    <string name="contact_editor_prompt_zero_accounts" msgid="4468363031413457746">"Neem \'n oomblik om \'n rekening by te voeg wat jou kontakte sal rugsteun."</string>
     <string name="contact_editor_prompt_one_account" msgid="765343809177951169">"Nuwe kontakte sal gestoor word in <xliff:g id="ACCOUNT_NAME">%1$s</xliff:g>."</string>
     <string name="contact_editor_prompt_multiple_accounts" msgid="1543322760761168351">"Kies \'n verstekrekening vir nuwe kontakte:"</string>
     <string name="contact_editor_title_new_contact" msgid="7534775011591770343">"Skep nuwe kontak"</string>
